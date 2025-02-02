@@ -12,9 +12,10 @@ git clone https://github.com/rahul-shrivastav/testline-assignment-quizapp.git
 
 
 ### 2. Install Dependencies
-Install the required dependencies by running:
+Change the directory and Install the required dependencies by running:
 
 ```bash
+cd testline-assignment-quizapp
 npm install
 ```
 ### 3. Run Dev server Locally
