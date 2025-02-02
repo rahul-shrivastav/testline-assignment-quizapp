@@ -1,5 +1,9 @@
-## Quiz-Web-Application
+## Quiz-Web-Application 
+[![VISIT](https://img.shields.io/badge/-VISIT-blue?style=for-the-badge)](https://testline-assignment-quizapp.vercel.app/)
+
+
 A simple quiz application built with React that allows users to test their knowledge and view results instantly.
+
 ## Getting Started
 
 ### 1. Clone the Repository
@@ -34,6 +38,7 @@ bun dev
 
 Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
 
+Try the hosted application [here](https://testline-assignment-quizapp.vercel.app/).
 
 ## Sample Screenshots
 ![image](https://github.com/user-attachments/assets/f52f363c-03c5-4d74-8c19-4dbdde8c8e1f)
